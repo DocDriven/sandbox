@@ -1,1 +1,2 @@
-from .toy import func
+from .toy import *
+from .constants import *
